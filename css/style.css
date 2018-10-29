@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans');
+
+
+/* fondo del archivo "index.php" */
+
+.fondo{
+background:url("../img/fondo5.jpeg");
+height: 100vh;
+background-size: cover;
+background-repeat: no-repeat;
+background-position:center;
+}
+
+/* Para centrar el form de login en el index.php */
+
+.cuadro{
+background-color: white;
+padding-left:5%;
+padding-right:5%;
+padding-top:5%;
+padding-bottom:2%;
+border-radius:8px;
+-webkit-box-shadow: 10px 10px 17px 3px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 17px 3px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 17px 3px rgba(0,0,0,0.75);
+
+}
